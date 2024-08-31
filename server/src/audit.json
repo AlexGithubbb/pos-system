@@ -1,0 +1,60 @@
+{
+  "bills": [
+    {
+      "id": "1725081085139",
+      "tableNumber": 2,
+      "items": [
+        {
+          "menuItem": {
+            "id": "2",
+            "name": "Fries",
+            "price": 3.5
+          },
+          "quantity": 1
+        },
+        {
+          "menuItem": {
+            "id": "4",
+            "name": "Margherita Pizza",
+            "price": 14.5
+          },
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 18,
+      "timestamp": "2024-08-31T06:16:16.041Z"
+    },
+    {
+      "id": "1725084994090",
+      "tableNumber": 1,
+      "items": [
+        {
+          "menuItem": {
+            "id": "4",
+            "name": "Margherita Pizza",
+            "price": 14.5
+          },
+          "quantity": 1
+        },
+        {
+          "menuItem": {
+            "id": "8",
+            "name": "Coke",
+            "price": 2.5
+          },
+          "quantity": 2
+        },
+        {
+          "menuItem": {
+            "id": "1",
+            "name": "Cheeseburger",
+            "price": 12.99
+          },
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 32.49,
+      "timestamp": "2024-08-31T06:17:01.915Z"
+    }
+  ]
+}
